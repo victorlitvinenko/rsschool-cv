@@ -1,0 +1,22 @@
+body {
+  background-color: #EEE;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+article {
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,.1);
+  width: 1024px;
+  padding: 5px 15px 20px;
+  margin: auto;
+}
+
+pre {
+  margin-top: 0px;
+  display:inline-block;
+}
+
+.avatar {
+  max-width: 150px;
+  border-radius: 50%;
+}
